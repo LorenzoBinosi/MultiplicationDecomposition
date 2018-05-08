@@ -13,5 +13,5 @@ make
 and then execute the program
 
 <pre>
-./main \<input length 1> `<input length 2>` `<first factor>` `<second factor>`
+./main &lt;input length 1&gt; &lt;input length 2&gt; &lt;first factor&gt; &lt;second factor&gt;
 </pre>
